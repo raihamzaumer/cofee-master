@@ -1,0 +1,54 @@
+
+
+
+.navbar-nav a:hover {
+    color: rgb(12, 12, 12);
+   
+  }
+
+
+
+.back{
+    background-image: url("/image/header-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+.hero-section{
+    margin-top: 3%;
+}
+.hero-text{
+    font-size: 2.7rem;
+    font-weight: bold;
+}
+.btn:hover{
+    color: white;
+    background-color: #ff9933;
+}
+
+.coffee{
+    background-image: url("/image/menu-bg.jpg");
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(97, 94, 94, 0.2)
+    
+}
+
+
+.footer-area{
+    background-image: url("/image/footer-bg.jpg");
+    background-repeat: no-repeat;
+    background-size:auto;
+    height:66vh;
+}
+.socail-icon{
+    color: aliceblue;
+}
+.socail-icon:hover{
+    cursor: pointer;
+    color: #ff9933;
+
+
+}
